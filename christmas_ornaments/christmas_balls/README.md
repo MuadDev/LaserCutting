@@ -25,7 +25,7 @@ Christmas ball with a voronoi pattern
 	- [Reddit](https://www.reddit.com/r/Inkscape/comments/g8ory7/rounded_voronoi_cells/)
 
 ## Snowflakes
-Christmass ball with a snowflake like patter cut out
+Christmas ball with a snowflake like patter cut out
 
 The snowflake cut out can be used as an ornament itself too.
 
@@ -39,3 +39,14 @@ See make at [Thingiverse](https://www.thingiverse.com/thing:5142645).
   		Draw a single arm using lines (bezier, circle) and rotate 6 times
 	- [YouTube](https://www.youtube.com/watch?v=e7_mmmNn3Eg)
   		More elaborate figures. Created using (circles, squares, beziers, etc)
+
+## Stars
+Christmas balls with star patterns
+
+## Words
+Christmas balls filled with words
+
+### FAQ
+**How to fit words into a shape using inkscape?**
+Use path effect: envelope deformation.  
+See [YouTube](https://www.youtube.com/watch?v=l3BHcregNUs)
