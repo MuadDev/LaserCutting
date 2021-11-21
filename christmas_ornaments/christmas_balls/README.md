@@ -1,3 +1,6 @@
+# Project
+- [Pinterest](https://pin.it/15hMJRJ) inspiration board
+
 # Christmas Ball Designs
 
 ## Template
