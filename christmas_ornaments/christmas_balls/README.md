@@ -28,6 +28,8 @@ Christmass ball with a snowflake like patter cut out
 
 The snowflake cut out can be used as an ornament itself too.
 
+See make at [Thingiverse](https://www.thingiverse.com/thing:5142645).
+
 ### FAQ
 - How to desing a simple snowflake in Inkscape?
 	- [YouTube](https://www.youtube.com/watch?v=WLHDSGEf7Lk)
