@@ -17,7 +17,7 @@ Christmas ball with a voronoi pattern
 
 ### FAQ
 - How to make a voronoi pattern in Inkscape?
-	- [YoutTube](https://www.youtube.com/watch?app=desktop&v=HRtARlVcSuQ&t=7s#menu)
+	- [YouTube](https://www.youtube.com/watch?app=desktop&v=HRtARlVcSuQ&t=7s#menu)
 	- [Reddit](https://www.reddit.com/r/Inkscape/comments/g8ory7/rounded_voronoi_cells/)
 
 ## Snowflakes
@@ -31,5 +31,5 @@ The snowflake cut out can be used as an ornament itself too.
   		Use figures (circle, square, etc) to create snowflakes
 	- [YouTube](https://www.youtube.com/watch?v=YC3g2DvAKxk)
   		Draw a single arm using lines (bezier, circle) and rotate 6 times
-	- [YouTube]https://www.youtube.com/watch?v=e7_mmmNn3Eg
+	- [YouTube](https://www.youtube.com/watch?v=e7_mmmNn3Eg)
   		More elaborate figures. Created using (circles, squares, beziers, etc)
