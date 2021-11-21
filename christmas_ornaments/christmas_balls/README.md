@@ -10,6 +10,7 @@ A starting point with preset LaserSaur cut values for creating christmas balls
 - Design a patter such that the cut out itself can be an ornament too if possible.
 - Remember to cut out the figure first, then the surrounding christmass ball.
 - Do not cut too small, as the laser appears to have some "width" while cutting.
+- Rotate the view such that the top of the christmass ball is at the top of the view.
 
 ### FAQ
 - How to set the lasersaur settings from within a SVG file
