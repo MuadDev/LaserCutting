@@ -3,7 +3,7 @@
 
 # Tools
 - [Inkscape](https://inkscape.org/) for designing the SVG files.
-- [LaserSaur](https://www.lasersaur.com/)for laser cutting.
+- [LaserSaur](https://www.lasersaur.com/) for laser cutting.
 
 # Christmas Ball Designs
 
