@@ -1,6 +1,10 @@
 # Project
 - [Pinterest](https://pin.it/15hMJRJ) inspiration board
 
+# Tools
+- [Inkscape](https://inkscape.org/) for designing the SVG files.
+- [LaserSaur](https://www.lasersaur.com/)for laser cutting.
+
 # Christmas Ball Designs
 
 ## Template
@@ -48,6 +52,6 @@ Christmas balls with star patterns.
 Christmas balls filled with words.
 
 ### FAQ
-**How to fit words into a shape using inkscape?**
+**How to fit words into a shape using inkscape?**  
 Use path effect: envelope deformation.  
 See [YouTube](https://www.youtube.com/watch?v=l3BHcregNUs)
