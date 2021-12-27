@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1220mm"
+   height="600mm"
+   viewBox="0 0 1220 600.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="windmill.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="false"
+     inkscape:zoom="0.23617316"
+     inkscape:cx="2305.5118"
+     inkscape:cy="1132.6435"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <path
+       id="path20190-1-1"
+       d="m 453.44668,530.40101 36.88761,2.39082 77.19094,-1.02433 66.60267,-1.3662 h 25.958 l -6.83097,-36.88762 12.63733,-1.70789 -14.34517,-24.25014 -17.44322,-51.58663 -9.66065,-41.05756 -12.07571,-59.89543 -1.44908,-7.72849 13.52479,-0.48261 6.27946,-4.8303 -16.42301,-20.28718 -20.28715,-15.93994 176.05333,-24.29928 6.83109,-13.66219 -5.46477,-1.36614 -2.04942,-36.88767 -199.46673,40.98636 -11.61274,15.02822 -22.54238,-9.56344 -8.88048,2.73249 -1.36623,-8.88034 4.78185,-2.73252 2.73243,-213.128767 -48.50053,14.345145 11.61283,200.833012 20.49322,4.09858 2.73235,12.29584 -15.71144,19.12696 -20.49311,4.0987 -9.56346,-8.88037 -188.53706,32.10599 0.68293,49.18346 195.36809,-29.37345 -1.36629,-6.83109 12.97903,3.41547 -0.68284,20.49311 -6.14785,42.35251 -21.17632,86.75446 -15.02831,37.57069 8.88034,-2.04927 z"
+       style="display:inline;vector-effect:none;fill:#000000;fill-opacity:1;stroke:#000000;stroke-width:0.365124;stroke-linecap:butt;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-dashoffset:0;stroke-opacity:1"
+       inkscape:connector-curvature="0" />
+  </g>
+</svg>
