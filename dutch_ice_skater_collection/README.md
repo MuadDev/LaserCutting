@@ -7,9 +7,10 @@ Each `SVG` file contains multiple parts consisting of red and blue lines. These 
 ![Collection Top](results/top.jpg)
 ![Collection Angle](results/angle.jpg)
 
-# Tools
+# Links
 - [Inkscape](https://inkscape.org/) for designing the SVG files.
 - [LaserSaur](https://www.lasersaur.com/) for laser cutting.
+- [Pinterest](https://nl.pinterest.com/muaddev/dutch-winter-scene/) inspiration board.
 
 # Tips
 - The `template.svg` file can be used for a quick start.
