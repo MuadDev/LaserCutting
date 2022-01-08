@@ -1,4 +1,4 @@
-# Dutch Ice Skater Collection
+# Dutch Ice Skater Pendant Collection
 Pendants with scene's of a Dutch ice skater.
 
 Each `SVG` file contains multiple parts consisting of red and blue lines. These are the lines meant to be cut.  

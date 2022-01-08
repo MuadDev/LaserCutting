@@ -12,6 +12,7 @@ Each `SVG` file contains multiple parts consisting of red and blue lines. These 
 - [LaserSaur](https://www.lasersaur.com/) for laser cutting.
 - [Pinterest](https://nl.pinterest.com/muaddev/dutch-winter-scene/) inspiration board.
 - [Github](https://github.com/MuadDev/LaserCutting/tree/main/dutch_ice_skater_collection) containg all project files.
+- [Thingiverse](https://www.thingiverse.com/thing:5191793) product page.
 
 # Tips
 - The `template.svg` file can be used for a quick start.
