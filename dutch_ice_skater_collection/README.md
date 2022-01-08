@@ -3,6 +3,10 @@ Pendants with scene's of a Dutch ice skater.
 
 Each `SVG` file contains multiple parts consisting of red and blue lines. These are the lines meant to be cut.  
 
+# Results
+![Collection Top](results/top.jpg)
+![Collection Angle](results/angle.jpg)
+
 # Tools
 - [Inkscape](https://inkscape.org/) for designing the SVG files.
 - [LaserSaur](https://www.lasersaur.com/) for laser cutting.
