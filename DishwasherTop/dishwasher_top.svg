@@ -1,0 +1,118 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="1220mm"
+   height="600mm"
+   viewBox="0 0 1220 600.00001"
+   version="1.1"
+   id="svg5"
+   inkscape:version="1.1.1 (3bf5ae0d25, 2021-09-20)"
+   sodipodi:docname="dishwasher_top.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview7"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="true"
+     inkscape:document-units="mm"
+     showgrid="true"
+     inkscape:zoom="0.08349982"
+     inkscape:cx="-101.79663"
+     inkscape:cy="1970.0641"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="1912"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1"
+     inkscape:snap-global="false">
+    <inkscape:grid
+       type="xygrid"
+       id="grid825" />
+  </sodipodi:namedview>
+  <defs
+     id="defs2" />
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:#d38d5f;stroke:#c87137;stroke-width:4.9787;stop-color:#000000"
+       id="rect849"
+       width="795.0213"
+       height="605.0213"
+       x="2.4893496"
+       y="2.4893496" />
+    <path
+       style="fill:none;stroke:#00ff00;stroke-width:0.264583px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="M 710.13229,0 V 613.83333"
+       id="path1261" />
+    <rect
+       style="fill:none;stroke:#00ff00;stroke-width:1.10898;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect1383"
+       width="18.891016"
+       height="29.167782"
+       x="68.759857"
+       y="-7.9693079"
+       ry="3.6459727" />
+    <rect
+       style="fill:none;stroke:#00ff00;stroke-width:1.10898;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect1383-5"
+       width="18.891016"
+       height="29.167782"
+       x="401.00085"
+       y="-8.5612621"
+       ry="3.6459727" />
+    <rect
+       style="fill:none;stroke:#00ff00;stroke-width:1.10898;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="rect1383-5-8"
+       width="18.891016"
+       height="29.167782"
+       x="691.72168"
+       y="-9.533824"
+       ry="3.6459727" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path1870"
+       cx="0.19804187"
+       cy="-0.12377627"
+       rx="2.0794394"
+       ry="1.7576213" />
+    <ellipse
+       style="fill:none;stroke:#ff0000;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stop-color:#000000"
+       id="path1870-0"
+       cx="710.47516"
+       cy="0.14853138"
+       rx="2.0794394"
+       ry="1.7576213" />
+    <text
+       xml:space="preserve"
+       style="font-size:2.86695px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#ff0000;fill-opacity:1;stroke-width:2.15021"
+       x="-91.127831"
+       y="19.733992"
+       id="text37531-6-9-9"><tspan
+         sodipodi:role="line"
+         id="tspan37529-6-2-1"
+         style="fill:#ff0000;fill-opacity:1;stroke-width:2.15021"
+         x="-91.127831"
+         y="19.733992">=pass1:600mm/min:100%:#ff0000=</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:2.86695px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#00ff00;fill-opacity:1;stroke-width:2.15021"
+       x="-101.08479"
+       y="33.313965"
+       id="text37531-6-9-9-1"><tspan
+         sodipodi:role="line"
+         id="tspan37529-6-2-1-1"
+         style="fill:#00ff00;fill-opacity:1;stroke-width:2.15021"
+         x="-101.08479"
+         y="33.313965">=pass2:600mm/min:100%:#00ff00=</tspan></text>
+  </g>
+</svg>
